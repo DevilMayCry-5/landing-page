@@ -59,6 +59,7 @@ header .hero {
 .hero-image {
   background-color: #464c53;
   flex: 1;
+  border-radius: 15px;
 }
 
 .hero-text h1 {
